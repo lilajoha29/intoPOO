@@ -1,14 +1,17 @@
 # Introducción a la Programación Orientada a Objetos
 
-Este repositorio contiene ejemplos y explicaciones sobre los conceptos fundamentales de la Programación Orientada a Objetos (POO). A continuación, se detalla el contenido de cada archivo:
+Este repositorio contiene ejercicios de los conceptos fundamentales de la Programación Orientada a Objetos (POO). 
 
-<img src="img/programate-academy-color-.png" alt="Logo Programate">
+1-Personas
+
+
+
 
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://github.com/JSand89/clase-intro-poo
+git clone https://github.com/lilajoha29/intoPOO.git
 
 
 2. Navega al directorio del proyecto:
@@ -38,7 +41,3 @@ El archivo `inheritance.py` se centra en la herencia y la polimorfia en POO. Exp
 
 Si deseas contribuir a este repositorio, ¡te invitamos a hacerlo! Puedes agregar ejemplos adicionales, expandir las explicaciones existentes o incluir nuevos conceptos relacionados con la programación orientada a objetos. Sigue los pasos estándar para realizar una solicitud de extracción (pull request) y estaremos encantados de revisar tus contribuciones.
 
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia o quieres el workbook para desarrollar este proyecto, no dudes en contactarme en [jsanchez@educamas.com.co](jsanchez@educamas.com.co).
