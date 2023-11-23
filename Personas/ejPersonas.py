@@ -36,7 +36,7 @@ class estudiantes(Personas):
     def __init__(self, name, last_name, year, course, grade):
         super().__init__(name, last_name, year)
         self.course = course
-        self.grade = grade
+        self.__grade = grade
 
     def course_student(self):
         print(f"{self.name} esta en la clase de {self.course}")
@@ -47,12 +47,12 @@ class estudiantes(Personas):
     def past_grade(self):
         self.past = False
         print(f"{self.name} tiene que recuperar la clase de {self.course}")
-
+# encapsulamiento
     def get_grade(self):
-        return self.grade
+        return self.__grade
     
     def set_grade(self, grade):
-        self.grade = grade
+        self.__grade = grade
 
 
 student1 = estudiantes("pablo", "perez", 20, "matematicas", 5)
